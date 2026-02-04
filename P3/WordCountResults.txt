@@ -5457,3 +5457,30 @@ zealand              1
 zen                  1         
 -------------------------------
 Execution Time: 0.0048 seconds
+--- Word Count Results ---
+File: TC6.txt
+Word                 Frequency 
+-------------------------------
+computer             3         
+horse                3         
+house                4         
+make                 3         
+programming          3         
+shadow               1         
+such                 3         
+tree                 1         
+-------------------------------
+Execution Time: 0.0016 seconds
+--- Word Count Results ---
+File: TC7.txt
+Word                 Frequency 
+-------------------------------
+case                 2         
+conservative         1         
+exit                 2         
+round                4         
+scape                2         
+test                 1         
+turn                 2         
+-------------------------------
+Execution Time: 0.0024 seconds
