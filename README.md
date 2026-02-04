@@ -23,3 +23,7 @@
 ## Salida
 - Se mostrará por pantalla el resultado de la operación
 - Se guardará el resultado en un archivo de texto
+
+## Pylint
+- Se mostrará por pantalla el resultado de la operación
+- Se guardará el resultado en un archivo de texto pylint_test.txt por cada programa
