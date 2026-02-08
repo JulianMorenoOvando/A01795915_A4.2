@@ -18,7 +18,7 @@
 
 ## Ejemplo de ejecución
 - cd P1/
-- python computeStatistics.py TC1.txt
+- python source/computeStatistics.py tests/TC1.txt
 
 ## Salida
 - Se mostrará por pantalla el resultado de la operación
@@ -27,3 +27,7 @@
 ## Pylint
 - Se mostrará por pantalla el resultado de la operación
 - Se guardará el resultado en un archivo de texto pylint_test.txt por cada programa
+
+## Nota
+- Los archivos de prueba se encuentran en la carpeta tests
+- Algunos archivos de prueba se crearon para cumplir con los requisitos de la tarea (TC1-TC7)

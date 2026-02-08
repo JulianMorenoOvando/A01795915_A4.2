@@ -1,5 +1,5 @@
 --- Word Count Results ---
-File: TC1.txt
+File: tests/TC1.txt
 Word                 Frequency 
 -------------------------------
 achievement          1         
@@ -102,9 +102,9 @@ wan                  1
 webcast              1         
 worse                1         
 -------------------------------
-Execution Time: 0.0018 seconds
+Execution Time: 0.0020 seconds
 --- Word Count Results ---
-File: TC2.txt
+File: tests/TC2.txt
 Word                 Frequency 
 -------------------------------
 advantages           1         
@@ -254,7 +254,7 @@ wood                 3
 -------------------------------
 Execution Time: 0.0024 seconds
 --- Word Count Results ---
-File: TC3.txt
+File: tests/TC3.txt
 Word                 Frequency 
 -------------------------------
 acquisition          1         
@@ -745,9 +745,9 @@ you                  1
 z                    1         
 zdnet                1         
 -------------------------------
-Execution Time: 0.0029 seconds
+Execution Time: 0.0023 seconds
 --- Word Count Results ---
-File: TC4.txt
+File: tests/TC4.txt
 Word                 Frequency 
 -------------------------------
 adjustable           1         
@@ -1700,9 +1700,9 @@ za                   2
 zen                  1         
 zimbabwe             2         
 -------------------------------
-Execution Time: 0.0018 seconds
+Execution Time: 0.0028 seconds
 --- Word Count Results ---
-File: TC5.txt
+File: tests/TC5.txt
 Word                 Frequency 
 -------------------------------
 TRUE                 1         
@@ -5456,9 +5456,9 @@ zdnet                2
 zealand              1         
 zen                  1         
 -------------------------------
-Execution Time: 0.0048 seconds
+Execution Time: 0.0074 seconds
 --- Word Count Results ---
-File: TC6.txt
+File: tests/TC6.txt
 Word                 Frequency 
 -------------------------------
 computer             3         
@@ -5470,9 +5470,9 @@ shadow               1
 such                 3         
 tree                 1         
 -------------------------------
-Execution Time: 0.0016 seconds
+Execution Time: 0.0023 seconds
 --- Word Count Results ---
-File: TC7.txt
+File: tests/TC7.txt
 Word                 Frequency 
 -------------------------------
 case                 2         
@@ -5483,4 +5483,4 @@ scape                2
 test                 1         
 turn                 2         
 -------------------------------
-Execution Time: 0.0024 seconds
+Execution Time: 0.0023 seconds
